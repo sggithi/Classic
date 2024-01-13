@@ -1,6 +1,6 @@
 ### Todo
 
-- [ ] AUC 계산 최적화
+- [ ] AUC 계산 최적화(BPR)
 - [ ] SVD pytorch
 
 #### 주의할 점
