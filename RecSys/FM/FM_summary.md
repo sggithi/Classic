@@ -47,7 +47,10 @@
  
  #### Implementation 
   n에 대해 돌리지말고 웬만하면 m(x)에 대해 돌리기
-  SGD로 update
+  SGD로 update => loss.backward()로 구현함!
+  DataLoader 만들기
+
+  근데... regularization 없어도 되나??
  
  
  와 이걸 뒤에서 설명하네...
