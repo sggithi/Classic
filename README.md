@@ -1,6 +1,6 @@
 ### Todo
 
-- [ ] AUC 계산 최적화(BPR)
+- [ ] AUC 계산 최적화(https://github.com/scikit-learn/scikit-learn/blob/9e38cd00d/sklearn/metrics/_ranking.py)
 - [ ] SVD pytorch
 - [ ] CML / Metric Learning / NCE
 
