@@ -2,6 +2,7 @@
 
 - [ ] AUC 계산 최적화(BPR)
 - [ ] SVD pytorch
+- [ ] CML / Metric Learning / NCE
 
 #### 주의할 점
  + DataLoader 만들어서 쓰기 (batch 단위로 올려야 메모리 낭비가 덜함)
