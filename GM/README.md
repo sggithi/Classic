@@ -8,3 +8,4 @@ q(z|x)와 p(x|z)를 모델링하고자 함
 
 #### RBM
 visibile layer와 hidden layer의 분포
+https://www.youtube.com/watch?v=UcAWwySuUZM
