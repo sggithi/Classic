@@ -1,7 +1,7 @@
 ### Todo
 
-- [ ] AUC 계산 최적화(https://github.com/scikit-learn/scikit-learn/blob/9e38cd00d/sklearn/metrics/_ranking.py)
-- [ ] SVD pytorch
+- [ ] 최적화(https://github.com/scikit-learn/scikit-learn/blob/9e38cd00d/sklearn/metrics/_ranking.py)
+- [ ] RBM
 - [ ] CML / Metric Learning / NCE
 
 #### 주의할 점
