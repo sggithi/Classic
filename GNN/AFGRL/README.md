@@ -8,7 +8,7 @@ Graph의 경우 structral information이 있기 때문에 이미지처럼 augmen
   
    **BYOL**
    
-    이게 왜 되지...
+    ~~이게 왜 되지...~~
     augmented view가 다른 두개의 network를 이용 
     (online network & target network)
   
@@ -20,6 +20,11 @@ Graph의 경우 structral information이 있기 때문에 이미지처럼 augmen
   
     진짜 너무 신기하당 
     두개의 네트워크를 이용한 방식에 대해 더 알아보면 좋을듯
+
+    원리는 바로 두 쌍을 유사하게 만들도록 representation 학습하는 것은 맞는데 학습이 진행되다보면
+    결국 모두 같은 답을 내게 만드는 쪽으로 학습이 돼서 붕괴가 일어남!
+    그러한 현상을 막으려고 의도적으로 gradient 흐름을 끊고, online network에만 predictor 달아서
+    두 network가 완전히 같은 답을 내뱉지 않도록 하는 방향으로 학습이 된다
     
  본 논문에서는 BYOL이 backbone이라서 negative sample 자체가 필요 없고 따라서 sampling bias또한 피할 수 있음
  
