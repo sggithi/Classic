@@ -1,6 +1,6 @@
 ### Todo
 
-- [ ] AUC 최적화(https://github.com/scikit-learn/scikit-learn/blob/9e38cd00d/sklearn/metrics/_ranking.py)
+- [ ] CPC / GAT
 - [ ] RBM energy에 대한 이해 필요 + RBMCF & VAE CF 구현하기
 - [ ] Metric Learning / NCE
 
