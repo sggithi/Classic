@@ -10,5 +10,5 @@
  + colab 속도가 느릴 때 RAM 확인해보기
    
 ### Study
-- [ ] https://deview.kr/2023/sessions/541
+- [ ] https://deview.kr/2023/sessions/541 (% load_ext line_profiler)
 - [ ] https://pytorch.org/tutorials/beginner/former_torchies/parallelism_tutorial.html
