@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=UcAWwySuUZM
  그리고 VAE는 직접적으로 확률 분포를 찾기보다는 그런 확률을 염두에 두면서 파라미터를 최적화하는 것이고, RBM은 진짜 샘플링을 거쳐서 확률 분포 추정도 함
  
  VAE는 생성용 모델이라 decoder에 초점을 맞췄다고 보면 되고, RBM은 복원하는게 목적 (???)
+

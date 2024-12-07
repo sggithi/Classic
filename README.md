@@ -2,7 +2,6 @@
 - [ ] CPC / GAT
 - [ ] RBM energy에 대한 이해 필요 + RBMCF & VAE CF 구현하기
 - [ ] Metric Learning / 
-- [ ] NMF
 
 #### 주의할 점
  + DataLoader 만들어서 쓰기 (batch 단위로 올려야 메모리 낭비가 덜함)
@@ -12,6 +11,9 @@
 
      
 ### Study
-- [ ] Pairwise VS Pointwise
-- [ ] https://www.jmlr.org/papers/volume11/erhan10a/erhan10a.pdf
-- [ ] https://proceedings.neurips.cc/paper_files/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf
+- [ ] Mutual Infomation
+- [ ] Causal Inference
+- [ ] State Space Machine
+- [ ] DyGNN
+
+이걸 다 공부할 날이 오긴 올까요...
